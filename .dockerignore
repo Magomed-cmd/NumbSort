@@ -1,0 +1,7 @@
+bin
+tmp
+.git
+.idea
+*.swp
+*.log
+vendor
